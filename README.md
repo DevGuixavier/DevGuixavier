@@ -22,6 +22,8 @@ Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou sempr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFB800?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ---
 
