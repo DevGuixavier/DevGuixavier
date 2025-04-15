@@ -1,6 +1,7 @@
 # Olá! Eu sou o Guilherme Xavier 👋
 
-Prazer, sou o Guilherme! Desenvolvedor apaixonado por transformar ideias em código. Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta, e estou sempre envolvido em projetos de backend, frontend,mobile e tudo o que envolve tecnologia. Curioso por natureza, adoro aprender novas linguagens, frameworks e ferramentas que me desafiem a crescer! 🚀
+Sou um desenvolvedor apaixonado por transformar ideias em código.
+Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou sempre trabalhando em projetos de backend, frontend, mobile, análise de dados e tudo relacionado à tecnologia. Sou movido pela curiosidade e busco constantemente novas linguagens, frameworks e ferramentas que me desafiem a evoluir. 🚀
 
 ---
 
