@@ -1,17 +1,23 @@
 # Olá! Eu sou o Guilherme Xavier 👋
 
-Sou um desenvolvedor apaixonado por transformar ideias em código.
-Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou sempre trabalhando em projetos de backend, frontend, mobile, análise de dados e tudo relacionado à tecnologia. Sou movido pela curiosidade e busco constantemente novas linguagens, frameworks e ferramentas que me desafiem a evoluir. 🚀
+🚀 Desenvolvedor apaixonado por transformar ideias em soluções com código, criatividade e café.
+
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**. Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
+
+Gosto de aprender, criar, melhorar. Cada linha de código que escrevo é mais um passo na minha jornada como desenvolvedor. 
 
 ---
 
 ## 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anjos-xavier/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.guixavier@gmail.com)
+
+
 
 ---
 
-## 🔥 Tecnologias e Ferramentas
+## 🔧 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,13 +30,14 @@ Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou sempr
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFB800?style=for-the-badge&logo=power-bi&logoColor=black)
 
+---
+
+## 📊 GitHub Stats
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuixavier&layout=compact&theme=tokyonight)
+
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuixavier&layout=compact&theme=radical)
-
----
-
-> ⚡Em constante evolução, sempre buscando aperfeiçoar minhas habilidades e dominar novas tecnologias.
+> ⚡ *Em constante evolução, sempre buscando aperfeiçoar minhas habilidades e dominar novas tecnologias.*
