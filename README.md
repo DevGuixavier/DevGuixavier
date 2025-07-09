@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor apaixonado por transformar ideias em soluções com código, criatividade e café.
 
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**. Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
+Atualmente estudo **Sistemas de Informação** na **Faculdade Impacta**. Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
 
 Gosto de aprender, criar, melhorar. Cada linha de código que escrevo é mais um passo na minha jornada como desenvolvedor. 
 
