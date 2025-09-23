@@ -1,6 +1,6 @@
 # Olá! Eu sou o Guilherme Xavier 👋
 
-🚀 Desenvolvedor apaixonado por transformar ideias em soluções com código, criatividade e café.
+🚀 Desenvolvedor apaixonado por transformar ideias em soluções com código e criatividade 
 
 Atualmente estudo **Sistemas de Informação** na **Faculdade Impacta**. Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
 
