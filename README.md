@@ -2,11 +2,11 @@
 
 🚀 Desenvolvedor apaixonado por transformar ideias em soluções com código e criatividade 
 
-Atualmente estudo **Sistemas de Informação** na **Faculdade Impacta**. Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
+Sou movido pela curiosidade e estou sempre explorando novos caminhos: backend, frontend, mobile, análise de dados — tudo que envolve tecnologia me instiga.
 
 Gosto de aprender, criar, melhorar. Cada linha de código que escrevo é mais um passo na minha jornada como desenvolvedor. 
 
----
+No momento, estou focado em projetos de **desenvolvimento web**, explorando ao máximo o ecossistema **React** com **TypeScript**, Um exemplo prático desse trabalho é o projeto **XCSolutions**: https://xcsolutions.vercel.app 
 
 ## 📫 Onde me encontrar:
 
@@ -25,10 +25,9 @@ Gosto de aprender, criar, melhorar. Cada linha de código que escrevo é mais um
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-FFB800?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ---
 
