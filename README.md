@@ -11,6 +11,7 @@ Gosto de aprender, criar, melhorar. Cada linha de código que escrevo é mais um
 ## 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anjos-xavier/)
+[![Credly](https://img.shields.io/badge/Credly-View%20Badges-0e76a8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guilherme-xavier.c41eb257/)
 
 
 
